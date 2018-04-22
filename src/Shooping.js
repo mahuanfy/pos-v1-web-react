@@ -34,8 +34,8 @@ class Shooping extends Component {
                                 <div class="thumbnail">
                                     <img class='img' src={require('./img/'+values[item].key+'.jpg')} alt="..." />
                                     <div class="caption">
-                                        <h4>名称：{values[item].key}</h4>
-                                        <p>编号：{values[item].value}</p>
+                                        <h4>编号：{values[item].key}</h4>
+                                        <p>个数：{values[item].value}</p>
                                     </div>
                                 </div>
                             </div>)

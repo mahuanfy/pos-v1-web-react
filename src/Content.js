@@ -43,7 +43,7 @@ class Content extends Component {
 
                 <div class="col-md-8">
                     <div class="page-header">
-                        <h1>欢迎观临线上特训营超市 <small>001分店</small>
+                        <h1>欢迎光临线上特训营超市 <small>001分店</small>
                         <a href="#tips">
                         <button  type="button" class="button_right btn btn-warning" onClick={this.showShooping.bind(this)} >
                         <span class="glyphicon glyphicon-shopping-cart"></span> 我的购物车</button>
